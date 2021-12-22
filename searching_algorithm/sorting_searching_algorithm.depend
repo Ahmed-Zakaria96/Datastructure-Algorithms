@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1640064963 source:e:\iti\data\data structure\sorting_algorithm\main.cpp
+	<iostream>
+	"Employee.h"
+	"EmployeeSort.h"
+	"colors.h"
+	<conio.h>
+
+1640065491 source:e:\iti\data\data structure\sorting_algorithm\src\employee.cpp
+	"Employee.h"
+	<string.h>
+	<iostream>
+
+1640065374 e:\iti\data\data structure\sorting_algorithm\include\employee.h
+
+1640068982 source:e:\iti\data\data structure\sorting_algorithm\src\employeesort.cpp
+	"EmployeeSort.h"
+	"Employee.h"
+	<iostream>
+	"colors.h"
+
+1640065303 e:\iti\data\data structure\sorting_algorithm\include\employeesort.h
+	"Employee.h"
+
+1640032556 e:\iti\data\data structure\sorting_algorithm\include\colors.h
+	<windows.h>
+
+1640149207 source:e:\iti\data\data structure\searching_algorithm\main.cpp
+	<iostream>
+	"Employee.h"
+	"EmployeeSort.h"
+	"colors.h"
+	<conio.h>
+
+1640085856 e:\iti\data\data structure\searching_algorithm\include\employee.h
+
+1640148748 e:\iti\data\data structure\searching_algorithm\include\employeesort.h
+	"Employee.h"
+
+1640032556 e:\iti\data\data structure\searching_algorithm\include\colors.h
+	<windows.h>
+
+1640085923 source:e:\iti\data\data structure\searching_algorithm\src\employee.cpp
+	"Employee.h"
+	<string.h>
+	<iostream>
+
+1640149032 source:e:\iti\data\data structure\searching_algorithm\src\employeesort.cpp
+	"EmployeeSort.h"
+	"Employee.h"
+	<iostream>
+	"colors.h"
+
