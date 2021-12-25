@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1640416455 source:e:\iti\data\data structure\trees\main.cpp
+	<iostream>
+	"Employee.h"
+	"BinaryTree.h"
+	"colors.h"
+
+1640386707 source:e:\iti\data\data structure\trees\src\employee.cpp
+	"Employee.h"
+	<string.h>
+	<iostream>
+	"colors.h"
+
+1640252432 e:\iti\data\data structure\trees\include\employee.h
+
+1640032556 e:\iti\data\data structure\trees\include\colors.h
+	<windows.h>
+
+1640415921 source:e:\iti\data\data structure\trees\src\binarytree.cpp
+	"BinaryTree.h"
+	<cstddef>
+	"Employee.h"
+	<iostream>
+	"colors.h"
+
+1640414004 e:\iti\data\data structure\trees\include\binarytree.h
+	"Employee.h"
+
+1640386276 source:e:\iti\data\data structure\trees\include\colors.h
+	<windows.h>
+
