@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1640101940 source:e:\iti\data\data structure\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Employee.h"
+
+1640101787 source:e:\iti\data\data structure\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<cstddef>
+
+1640101787 e:\iti\data\data structure\linkedlist\include\linkedlist.h
+	"Employee.h"
+
+1640094566 source:e:\iti\data\data structure\linkedlist\src\employee.cpp
+	"Employee.h"
+	<string.h>
+	<iostream>
+
+1640093785 e:\iti\data\data structure\linkedlist\include\employee.h
+
+1640181001 source:e:\iti\data\data structure\labs\linkedlist\src\employee.cpp
+	"Employee.h"
+	<string.h>
+	<iostream>
+	"colors.h"
+
+1640180970 e:\iti\data\data structure\labs\linkedlist\include\employee.h
+
+1640155904 source:e:\iti\data\data structure\labs\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<cstddef>
+
+1640170672 e:\iti\data\data structure\labs\linkedlist\include\linkedlist.h
+	"Employee.h"
+
+1640183100 source:e:\iti\data\data structure\labs\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Employee.h"
+	"colors.h"
+	"Queue.h"
+	"Stack.h"
+
+1640032556 e:\iti\data\data structure\labs\linkedlist\include\colors.h
+	<windows.h>
+
+1640170707 source:e:\iti\data\data structure\labs\linkedlist\src\queue.cpp
+	"Queue.h"
+	<cstddef>
+
+1640170643 e:\iti\data\data structure\labs\linkedlist\include\queue.h
+	"LinkedList.h"
+	"Employee.h"
+
+1640175988 source:e:\iti\data\data structure\labs\linkedlist\src\stack.cpp
+	"Stack.h"
+	<cstddef>
+
+1640171658 e:\iti\data\data structure\labs\linkedlist\include\stack.h
+	"LinkedList.h"
+	"Employee.h"
+
